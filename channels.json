@@ -22,5 +22,11 @@
         "name": "Roland Schaack",
         "tags": ["Learning Stuff", "New"],
         "description": "Trying to learn some shit!."
+    },
+    {
+        "id": "lisa",
+        "name": "Lisa Schaack",
+        "tags": ["Do Stuff", "Home"],
+        "description": "Love of my life!."
     }
 ]
