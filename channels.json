@@ -16,5 +16,11 @@
         "name": "ArjanCodes",
         "tags": ["software design", "python"],
         "description": "ArjanCodes focuses on helping you become a better software developer."
+    },
+    {
+        "id": "ro",
+        "name": "Roland Schaack",
+        "tags": ["Learning Stuff", "New"],
+        "description": "Trying to learn some shit!."
     }
 ]
