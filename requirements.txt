@@ -2,3 +2,5 @@ fastapi
 pydantic
 uvicorn
 watchfiles
+gunicorn
+starlette

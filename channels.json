@@ -28,5 +28,11 @@
         "name": "Lisa Schaack",
         "tags": ["Do Stuff", "Home"],
         "description": "Love of my life!."
+    },
+    {
+        "id": "fred",
+        "name": "Fred Blogg",
+        "tags": ["No Idea!", "Some rando"],
+        "description": "Standard random person."
     }
 ]
