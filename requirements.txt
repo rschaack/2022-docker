@@ -4,3 +4,7 @@ uvicorn
 watchfiles
 gunicorn
 starlette
+bs4
+requests
+python-multipart
+python-jose[cryptography]
